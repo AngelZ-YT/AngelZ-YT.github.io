@@ -28,7 +28,7 @@
 
 ### Density and 3D maps in Application of Registered Voters in Congressional District 16, San Mateo, CA
 
-[View my maps and deliverable here](pdf/ 3DMaps.pdf)
+[View my maps and deliverable here](pdf/3DMaps.pdf)
 
 <img src="images/project5.png?raw=true"/>
 
