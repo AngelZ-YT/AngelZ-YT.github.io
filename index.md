@@ -26,6 +26,12 @@
 
 <img src="images/project2.png?raw=true"/>
 
+### Density and 3D maps in Application of Registered Voters in Congressional District 16, San Mateo, CA
+
+[View my maps and deliverable here](https://storymaps.arcgis.com/stories/5738aa98018947ad801945f131254957)
+
+<img src="images/project2.png?raw=true"/>
+
 ---
 
 ## R projects
