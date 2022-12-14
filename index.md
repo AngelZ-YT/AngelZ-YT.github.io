@@ -20,6 +20,14 @@
 
 ## ArcGIS projects
 
+### Urban Heat Island and Redlining in Philadelphia
+
+[View my storymap here](https://storymaps.arcgis.com/stories/58739b7287a041fb9c52b61ff90f7796)
+
+<img src="images/project6.png?raw=true"/>
+
+---
+
 ### Philadelphia Indego shared bike mapping project - More bikes or more docks 
 
 [View my storymap here](https://storymaps.arcgis.com/stories/5738aa98018947ad801945f131254957)
