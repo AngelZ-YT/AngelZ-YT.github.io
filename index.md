@@ -20,6 +20,15 @@
 
 ## ArcGIS projects
 
+### Uncovering Inequities in Green Space : Modeling an Environmental-Social Green Space Index to Improve Social Equity and Environmental Justice
+
+[View my storymap here](https://storymaps.arcgis.com/stories/aa0a08c3ed46429c89e153f6f94bfbf2)
+
+<img src="images/ESGS.png?raw=true"/>
+
+---
+
+
 ### Urban Heat Island and Redlining in Philadelphia
 
 [View my storymap here](https://storymaps.arcgis.com/stories/58739b7287a041fb9c52b61ff90f7796)
@@ -43,6 +52,19 @@
 ---
 
 ## R projects
+
+### Charlottesville MSA Urban Growth Modeling
+
+[View my RMD here](https://yingtong-z.github.io/sprawl-forecasting/R-scripts/2.2--urban_growth_modeling_Charlottesville.html)
+
+<img src="images/sprawl.png?raw=true"/>
+
+---
+### Estimating Flood Inundation By “Borrowing” Experience From Another City
+
+[View my RMD here](https://yingtong-z.github.io/flood-inundation-map/markdown/flood-inundation-model-Jie-Yingtong.html)
+
+<img src="images/inundation.png?raw=true"/>
 
 ### Evaluation on factors affecting Americans’ participation in contact tracing and quarantine
 
