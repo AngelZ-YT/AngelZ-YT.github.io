@@ -4,6 +4,13 @@
 
 ## Python projects
 
+### Automating Esri Business Analyst enrichment using ArcGIS API for Python
+
+[View my code and deliverable here](https://github.com/AngelZ-YT/ESRI_BAO)
+
+<img src="images/BAO.png?raw=true"/>
+
+---
 ### Predicting Indego shared bike usage using ML classification models and time series model
 
 [View my code and deliverable here](https://github.com/Yingtong-Z/Indego_shared_bike_project)
