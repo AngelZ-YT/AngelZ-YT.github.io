@@ -8,7 +8,7 @@
 
 [View my code and deliverable here](https://github.com/AngelZ-YT/ESRI_BAO)
 
-<img src="images/BAO.png?raw=true"/>
+<img src="images/BAO_TEMPLATE.png?raw=true"/>
 
 ---
 ### Predicting Indego shared bike usage using ML classification models and time series model
